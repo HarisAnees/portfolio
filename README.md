@@ -3,6 +3,7 @@
 A professionally designed portfolio showcasing my software development capabilities, security-focused engineering approach, and real-world projects. Built to give a clear view of what I can build and how I approach technical problems.
 
 **Why This Portfolio:**
+
 Real-world project experience demonstrated through practical applications.
 
 Full-stack development across frontend, backend, databases, and APIs.
