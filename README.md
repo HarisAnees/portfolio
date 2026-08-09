@@ -1,58 +1,43 @@
-# Haris Anees — Portfolio (v2)
+Haris Anees — Full-Stack Developer Portfolio
 
-A bold, modern, dev-tool-inspired portfolio (Vercel / Linear / Stripe energy) with a **dark + light theme toggle**, an intro loader, Three-ready atmospheric background, typing effect, scroll animations, and a filterable project showcase with click-to-play video demos. Single file, no build step.
+Full-Stack Developer · Security-Focused Engineer
 
-## Stack
-- **HTML / CSS / JavaScript** — one self-contained `index.html`, zero framework
-- **Three.js** (vendored locally as `three.min.js` — no CDN, works offline) powers the hero security node-network
-- A 2D canvas powers the interactive skills constellation
-- **Google Fonts** — Space Grotesk (display), Inter (body), JetBrains Mono (mono)
-- Pure-CSS theming via `[data-theme]` variables; all motion respects `prefers-reduced-motion`
+A professionally designed portfolio showcasing my software development capabilities, security-focused engineering approach, and real-world projects. Built to give a clear view of what I can build and how I approach technical problems.
 
-### Signature interactions
-- **Hero node-network** — a live 3D constellation of indigo/cyan nodes connected by lines, drifting, rotating, and reacting to your cursor. Reinforces the "secure connected systems" identity.
-- **Skills constellation** — skill nodes orbit a central core on three rings; hover to disturb them. A readable column breakdown sits below for accessibility.
+Why This Portfolio
+Real-world project experience demonstrated through practical applications
+Full-stack development across frontend, backend, databases, and APIs
+Security-first mindset with authentication, authorization, and secure coding practices
+Premium, responsive UI/UX designed for modern web experiences
+Project videos, visuals, technologies, and live demos for quick evaluation
+Interactive technology showcase highlighting core technical capabilities
+Performance and accessibility-conscious implementation
+Clear professional profile connecting projects, experience, CV, GitHub, and LinkedIn
+Technical Expertise
 
-## Run locally
-```bash
-# simplest
-open index.html
-# or serve (recommended so fonts/video load cleanly)
-python3 -m http.server 8000   # → http://localhost:8000
-```
+Frontend
+HTML5 · CSS3 · JavaScript · AJAX · Bootstrap
 
-## Your assets — what to add
-This build already includes your photo (`haris.jpg`). Two things left to make it 100% complete:
+Backend
+PHP · Laravel · ASP.NET Core MVC · REST APIs
 
-**1. Resume PDF** — the "Download CV" button points to `Haris_Anees_Resume.pdf`. Drop that file in this folder (you already have the resume I generated earlier — just rename it to match, or update the `href` in the hero).
+Databases
+MySQL · SQL Server
 
-**2. Project demo videos** — the six project cards are click-to-play. Name your clips `project1.mp4` … `project6.mp4` and drop them in this folder. Each card's placeholder tells you which file it expects (e.g. `drop: project1.mp4`). Keep them short (15–40s) and H.264-compressed.
+Security
+Authentication · RBAC · MFA/OTP · Password Hashing · CSRF Protection · XSS Prevention · Input Validation
 
-## Customize
-| What | Where |
-|------|-------|
-| Accent colors | `--accent`, `--accent-2`, `--accent-3` in `:root` |
-| Dark palette | the `[data-theme="dark"]` block |
-| Light palette | the `[data-theme="light"]` block |
-| Default theme | `data-theme="dark"` on the `<html>` tag + `setTheme('dark')` in JS |
-| Typing words | the `words` array in the script |
-| Project categories | `data-cat` on each `.proj-card` (matches the filter buttons) |
+Tools & Technologies
+Git · GitHub · Postman · Three.js · PHPMailer · TinyMCE
 
-## Features
-- **Theme toggle** — persists for the session; smooth 0.5s transition across every surface
-- **Intro loader** — animated logo + progress bar, auto-dismisses (with a fallback timer so it never hangs)
-- **Hero** — typing effect, gradient headline, animated entrance, social links, CV download, 3D photo tilt on hover, floating glass stat cards
-- **Filterable projects** — All / Security / Full-Stack / API, with click-to-play video cards
-- **Scroll progress bar**, reveal-on-scroll, count-up stats, infinite tech marquee
-- **Accessible** — semantic landmarks, keyboard-focusable, reduced-motion safe, single `<h1>`
+Professional Focus
 
-## SEO (already wired)
-Meta description, Open Graph, Twitter card, `Person` JSON-LD, canonical URL (update `https://harisanees.dev/` to your domain).
+I'm interested in opportunities where I can contribute to:
 
-## Deploy
-**Netlify:** drag this folder onto app.netlify.com.
-**Vercel:** run `vercel` inside the folder.
-**GitHub Pages:** push to a repo → Settings → Pages → deploy from root.
+Full-Stack Development · Web Development · Secure Application Development · Cybersecurity
 
----
-© 2026 Haris Anees.
+Connect
+
+🌐 Portfolio: https://harisanees.netlify.app/
+💼 LinkedIn: https://linkedin.com/in/haris-anees-0b9925285
+💻 GitHub: https://github.com/HarisAnees
