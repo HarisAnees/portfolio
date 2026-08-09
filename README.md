@@ -1,10 +1,8 @@
-Haris Anees — Full-Stack Developer Portfolio
-
-Full-Stack Developer · Security-Focused Engineer
+**Haris Anees — Full-Stack Developer Portfolio**
 
 A professionally designed portfolio showcasing my software development capabilities, security-focused engineering approach, and real-world projects. Built to give a clear view of what I can build and how I approach technical problems.
 
-Why This Portfolio
+**Why This Portfolio:**
 Real-world project experience demonstrated through practical applications
 Full-stack development across frontend, backend, databases, and APIs
 Security-first mindset with authentication, authorization, and secure coding practices
@@ -15,29 +13,30 @@ Performance and accessibility-conscious implementation
 Clear professional profile connecting projects, experience, CV, GitHub, and LinkedIn
 Technical Expertise
 
-Frontend
+**Frontend:**
 HTML5 · CSS3 · JavaScript · AJAX · Bootstrap
 
-Backend
+**Backend:**
 PHP · Laravel · ASP.NET Core MVC · REST APIs
 
-Databases
+**Databases:**
 MySQL · SQL Server
 
-Security
+**Security:**
 Authentication · RBAC · MFA/OTP · Password Hashing · CSRF Protection · XSS Prevention · Input Validation
 
-Tools & Technologies
+**Tools & Technologies:**
 Git · GitHub · Postman · Three.js · PHPMailer · TinyMCE
 
-Professional Focus
+**Professional Focus”**
 
 I'm interested in opportunities where I can contribute to:
 
 Full-Stack Development · Web Development · Secure Application Development · Cybersecurity
 
-Connect
+**Connect:**
 
 🌐 Portfolio: https://harisanees.netlify.app/
 💼 LinkedIn: https://linkedin.com/in/haris-anees-0b9925285
 💻 GitHub: https://github.com/HarisAnees
+****
